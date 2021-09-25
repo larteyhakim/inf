@@ -1,0 +1,261 @@
+<section class="gallery-main canvas-padding ">
+        <div class="caption-head text-center">
+            <h2>Our <span>Cheerished Clients</span></h2>
+        </div>
+        <div class="container-fluid">
+            <div class="row masonry-grid parent-container">
+                <div class="col-lg-3 col-md-6 col-sm-6 masonry-item">
+                    <article class="card">
+                        <header class="card-header fade-mode">
+                            <img class="card-header-thumb" src="images/pf1.jpg" alt="image" />
+                            <div class="ovrly"></div>
+                            <div class="buttons">
+                                <a href="images/gp1.jpg" class="ti-fullscreen hvr"></a>
+                            </div>
+                        </header>
+                    </article>
+                </div>
+                <!-- end of masonry-item -->
+                <div class="col-lg-3 col-md-6 col-sm-6 masonry-item">
+                    <article class="card">
+                        <header class="card-header fade-mode">
+                            <img class="card-header-thumb" src="images/pf1.jpg" alt="image" />
+                            <div class="ovrly"></div>
+                            <div class="buttons">
+                                <a href="images/pf1.jpg" class="ti-fullscreen hvr"></a>
+                            </div>
+                        </header>
+                    </article>
+                </div>
+                <!-- end of masonry-item -->
+                <div class="col-lg-3 col-md-6 col-sm-6 masonry-item">
+                    <article class="card">
+                        <header class="card-header fade-mode">
+                            <img class="card-header-thumb" src="images/pf1.jpg" alt="image" />
+                            <div class="ovrly"></div>
+                            <div class="buttons">
+                                <a href="images/pf1.jpg" class="ti-fullscreen hvr"></a>
+                            </div>
+                        </header>
+                    </article>
+                </div>
+                <!-- end of masonry-item -->
+                <div class="col-lg-3 col-md-6 col-sm-6 masonry-item">
+                    <article class="card">
+                        <header class="card-header fade-mode">
+                            <img class="card-header-thumb" src="images/pf1.jpg" alt="image" />
+                            <div class="ovrly"></div>
+                            <div class="buttons">
+                                <a href="images/pf1.jpg" class="ti-fullscreen hvr"></a>
+                            </div>
+                        </header>
+                    </article>
+                </div>
+                <!-- end of masonry-item -->
+            </div>
+            <!-- end of masonry-grid -->
+            <div class="text-center">
+                <a href="#" class="btn main-photo-btn generic-btn black-btn with-margin more-width-btn"><span>Explore more</span></a>
+            </div>
+        </div>
+        <!-- End Container-fluid -->
+    </section>
+    <!-- End of gallery-main -->
+
+    <!-- ==================================
+    **testimonial**
+    ================================== -->
+    <section class="testimonial">
+        <div class="container">
+            <div class="caption-head text-center">
+                <h2>What Our Clients <span>Say About Us</span></h2>
+            </div>
+            <div class="testimonial-wrapper">
+                <div class="swiper-container testimonial-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+                <!-- end of swiper-container -->
+            </div>
+            <!-- end of testimonial-wrapper -->
+        </div>
+        <!-- end of container -->
+    </section>
+    <!-- end of testimonial section -->
+
+
+
+
+
+
+
+
+
+
+    About testimonial
+
+
+       <section class="testimonial">
+        <div class="container">
+            <div class="caption-head text-center">
+                <h2>Our Client <span>Testimonial</span></h2>
+            </div>
+            <div class="testimonial-wrapper">
+                <div class="swiper-container testimonial-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="testimonial-inner">
+                                <div class="testimonial-body">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                </div>
+                                <div class="testimonial-footer">
+                                    <p>Ravoof Kakkattumel <span>beekaran manager</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end of swiper-slide -->
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+                <!-- end of swiper-container -->
+            </div>
+            <!-- end of testimonial-wrapper -->
+        </div>
+        <!-- end of container -->
+    </section>
